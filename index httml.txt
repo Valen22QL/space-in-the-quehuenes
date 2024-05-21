@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Facheros - El Misterio del Espacio</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #1a1a1a;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin: 20px 0;
+        }
+        .reflection {
+            background-color: #2a2a2a;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #1a1a1a;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Team Facheros</h1>
+        <p>Explorando el Misterio Infinito del Espacio</p>
+    </header>
+    <main>
+        <section>
+            <h2>El Espacio: Misterio Infinito</h2>
+            <p>El espacio, vasto y enigmático, ha fascinado a la humanidad desde tiempos inmemoriales. Con su inmensidad aparentemente infinita, el cosmos nos confronta con preguntas fundamentales sobre nuestra existencia y el lugar que ocupamos en el universo.</p>
+        </section>
+        <section>
+            <h2>Reflexión</h2>
+            <div class="reflection">
+                <p>La inmensidad del espacio plantea una reflexión profunda: ¿Qué sería peor, estar solos en el universo o no estarlo? La idea de ser los únicos seres conscientes en un cosmos tan vasto puede resultar aterradora y solitaria. Por otro lado, la posibilidad de no estar solos, de compartir el universo con otras formas de vida inteligentes, también es inquietante y llena de incertidumbres.</p>
+                <p>Esta dualidad nos invita a contemplar nuestra propia existencia y el misterio que envuelve al universo. Cada estrella, cada galaxia, cada rincón del cosmos guarda secretos que aún no hemos desvelado.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Team Facheros. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
